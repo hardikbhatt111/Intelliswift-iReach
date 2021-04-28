@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-27T17:52:08 IST" name="Default suite" finished-at="2021-04-27T17:52:33 IST" duration-ms="25167">
+  <suite started-at="2021-04-28T11:54:05 IST" name="Suite" finished-at="2021-04-28T11:54:40 IST" duration-ms="34887">
     <groups>
     </groups>
-    <test started-at="2021-04-27T17:52:08 IST" name="Default test" finished-at="2021-04-27T17:52:33 IST" duration-ms="25167">
+    <test started-at="2021-04-28T11:54:05 IST" name="Test" finished-at="2021-04-28T11:54:40 IST" duration-ms="34887">
       <class name="ireach.test.IntelliswiftiReach">
-        <test-method signature="alaunch()[pri:0, instance:ireach.test.IntelliswiftiReach@376a0d86]" started-at="2021-04-27T17:52:08 IST" name="alaunch" finished-at="2021-04-27T17:52:33 IST" duration-ms="25102" status="PASS">
+        <test-method signature="clockInOut()[pri:0, instance:ireach.test.IntelliswiftiReach@47c81abf]" started-at="2021-04-28T11:54:05 IST" name="clockInOut" finished-at="2021-04-28T11:54:40 IST" duration-ms="34813" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- alaunch -->
+        </test-method> <!-- clockInOut -->
       </class> <!-- ireach.test.IntelliswiftiReach -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

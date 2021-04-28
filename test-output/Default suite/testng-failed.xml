@@ -5,7 +5,7 @@
     <classes>
       <class name="ireach.test.IntelliswiftiReach">
         <methods>
-          <include name="alaunch"/>
+          <include name="clockInOut"/>
         </methods>
       </class> <!-- ireach.test.IntelliswiftiReach -->
     </classes>

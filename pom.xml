@@ -138,6 +138,10 @@
         
     </dependencies>
     <build>
+    
+    <sourceDirectory>${basedir}/src</sourceDirectory>
+    <testSourceDirectory>${basedir}/test</testSourceDirectory>
+    
         <pluginManagement>
             <plugins>
                 <plugin>
